@@ -1,1 +1,4 @@
 # CSGOstash-Scraper-AI-Chatbot
+With the upcoming release of CS2, interest in the csgo market has never been higher. Since CSGO released the first skins in 2012, the market has grown massively. Since 2012, AI has also taken a massive leap.I wanted to create a CSGO investing chatbot that would be able to have real-time conversations about CSGO investments.
+I found a great CSGOstash scraper here: https://github.com/supr3meofficial/csgostash-scraper/tree/master 
+Since I'm new to scraping, the code provided by supr3official was a great learning opportunity and starting point. I've reiterated the scraper linked to scrape the html table for each item. After I have successfully done this, an AI chatbot will be created as a proof-of-concept. Once I'm confident I can achieve a functioning chatbot I will then add in other CSGO items that aren't skins i.e. agents, gloves, stickers, etc.
